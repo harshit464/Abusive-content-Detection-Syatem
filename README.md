@@ -1,1 +1,1 @@
-# Abusive-content-Detection-Syatem
+# Abusive-content-Detection-System
